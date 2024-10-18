@@ -1,0 +1,11 @@
+﻿product_id,product_name,category,price,stock_quantity
+1,Smartphone,Electronics,699.99,50
+2,Laptop,Electronics,1200.50,30
+3,Headphones,Accessories,149.99,200
+4,Smartwatch,Wearables,249.99,75
+5,Tablet,Electronics,450.00,100
+6,Gaming Console,Electronics,399.99,25
+7,Bluetooth Speaker,Accessories,89.99,150
+8,Keyboard,Accessories,49.99,300
+9,USB-C Hub,Accessories,59.99,60
+10,Webcam,Electronics,79.99,60
